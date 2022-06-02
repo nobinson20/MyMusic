@@ -1,0 +1,15 @@
+D:\바탕화면\입사 지원\Itlize training\training_git\.NET-core\MyMusic\MyMusic.Services\bin\Debug\net5.0\MyMusic.Services.deps.json
+D:\바탕화면\입사 지원\Itlize training\training_git\.NET-core\MyMusic\MyMusic.Services\bin\Debug\net5.0\MyMusic.Services.dll
+D:\바탕화면\입사 지원\Itlize training\training_git\.NET-core\MyMusic\MyMusic.Services\bin\Debug\net5.0\MyMusic.Services.pdb
+D:\바탕화면\입사 지원\Itlize training\training_git\.NET-core\MyMusic\MyMusic.Services\bin\Debug\net5.0\MyMusic.Core.dll
+D:\바탕화면\입사 지원\Itlize training\training_git\.NET-core\MyMusic\MyMusic.Services\bin\Debug\net5.0\MyMusic.Core.pdb
+D:\바탕화면\입사 지원\Itlize training\training_git\.NET-core\MyMusic\MyMusic.Services\obj\Debug\net5.0\MyMusic.Services.csproj.AssemblyReference.cache
+D:\바탕화면\입사 지원\Itlize training\training_git\.NET-core\MyMusic\MyMusic.Services\obj\Debug\net5.0\MyMusic.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\바탕화면\입사 지원\Itlize training\training_git\.NET-core\MyMusic\MyMusic.Services\obj\Debug\net5.0\MyMusic.Services.AssemblyInfoInputs.cache
+D:\바탕화면\입사 지원\Itlize training\training_git\.NET-core\MyMusic\MyMusic.Services\obj\Debug\net5.0\MyMusic.Services.AssemblyInfo.cs
+D:\바탕화면\입사 지원\Itlize training\training_git\.NET-core\MyMusic\MyMusic.Services\obj\Debug\net5.0\MyMusic.Services.csproj.CoreCompileInputs.cache
+D:\바탕화면\입사 지원\Itlize training\training_git\.NET-core\MyMusic\MyMusic.Services\obj\Debug\net5.0\MyMusic.Services.csproj.CopyComplete
+D:\바탕화면\입사 지원\Itlize training\training_git\.NET-core\MyMusic\MyMusic.Services\obj\Debug\net5.0\MyMusic.Services.dll
+D:\바탕화면\입사 지원\Itlize training\training_git\.NET-core\MyMusic\MyMusic.Services\obj\Debug\net5.0\ref\MyMusic.Services.dll
+D:\바탕화면\입사 지원\Itlize training\training_git\.NET-core\MyMusic\MyMusic.Services\obj\Debug\net5.0\MyMusic.Services.pdb
+D:\바탕화면\입사 지원\Itlize training\training_git\.NET-core\MyMusic\MyMusic.Services\bin\Debug\net5.0\ref\MyMusic.Services.dll
