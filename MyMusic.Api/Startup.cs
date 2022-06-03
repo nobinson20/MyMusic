@@ -125,7 +125,7 @@ namespace MyMusic.Api
             app.UseSwagger();
             app.UseSwaggerUI(c =>
             {
-                c.RoutePrefix = "";
+                //c.RoutePrefix = "";
                 c.SwaggerEndpoint("/swagger/v1/swagger.json", "My Music V1");
             });
         }
